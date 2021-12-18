@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Port-React-Page-Git3/static/css/main.2de31d0d.chunk.css",
+    "main.js": "/Port-React-Page-Git3/static/js/main.29825fda.chunk.js",
+    "main.js.map": "/Port-React-Page-Git3/static/js/main.29825fda.chunk.js.map",
+    "runtime-main.js": "/Port-React-Page-Git3/static/js/runtime-main.a180c7fa.js",
+    "runtime-main.js.map": "/Port-React-Page-Git3/static/js/runtime-main.a180c7fa.js.map",
+    "static/css/2.c3715205.chunk.css": "/Port-React-Page-Git3/static/css/2.c3715205.chunk.css",
+    "static/js/2.27701d9a.chunk.js": "/Port-React-Page-Git3/static/js/2.27701d9a.chunk.js",
+    "static/js/2.27701d9a.chunk.js.map": "/Port-React-Page-Git3/static/js/2.27701d9a.chunk.js.map",
+    "index.html": "/Port-React-Page-Git3/index.html",
+    "static/css/2.c3715205.chunk.css.map": "/Port-React-Page-Git3/static/css/2.c3715205.chunk.css.map",
+    "static/css/main.2de31d0d.chunk.css.map": "/Port-React-Page-Git3/static/css/main.2de31d0d.chunk.css.map",
+    "static/js/2.27701d9a.chunk.js.LICENSE.txt": "/Port-React-Page-Git3/static/js/2.27701d9a.chunk.js.LICENSE.txt",
+    "static/media/animal.d9c1f066.jpg": "/Port-React-Page-Git3/static/media/animal.d9c1f066.jpg",
+    "static/media/cat.9f1d83ef.jpg": "/Port-React-Page-Git3/static/media/cat.9f1d83ef.jpg",
+    "static/media/elk.278ee5a9.jpg": "/Port-React-Page-Git3/static/media/elk.278ee5a9.jpg",
+    "static/media/squireel.878e46ee.jpg": "/Port-React-Page-Git3/static/media/squireel.878e46ee.jpg",
+    "static/media/weld.fe171048.png": "/Port-React-Page-Git3/static/media/weld.fe171048.png",
+    "static/media/weld1.3b16da54.jpg": "/Port-React-Page-Git3/static/media/weld1.3b16da54.jpg",
+    "static/media/weld2.a33c2e53.jpg": "/Port-React-Page-Git3/static/media/weld2.a33c2e53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a180c7fa.js",
+    "static/css/2.c3715205.chunk.css",
+    "static/js/2.27701d9a.chunk.js",
+    "static/css/main.2de31d0d.chunk.css",
+    "static/js/main.29825fda.chunk.js"
+  ]
+}
